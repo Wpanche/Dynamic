@@ -1,0 +1,17 @@
+D:\ServiceCore\ServiceDynamic\bin\Debug\netcoreapp2.1\ServiceDynamic.deps.json
+D:\ServiceCore\ServiceDynamic\bin\Debug\netcoreapp2.1\ServiceDynamic.runtimeconfig.json
+D:\ServiceCore\ServiceDynamic\bin\Debug\netcoreapp2.1\ServiceDynamic.runtimeconfig.dev.json
+D:\ServiceCore\ServiceDynamic\bin\Debug\netcoreapp2.1\ServiceDynamic.dll
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.csprojAssemblyReference.cache
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.csproj.CoreCompileInputs.cache
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.RazorAssemblyInfo.cache
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.RazorAssemblyInfo.cs
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.AssemblyInfoInputs.cache
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.AssemblyInfo.cs
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.RazorTargetAssemblyInfo.cache
+D:\ServiceCore\ServiceDynamic\bin\Debug\netcoreapp2.1\ServiceDynamic.pdb
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.dll
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.pdb
+D:\ServiceCore\ServiceDynamic\bin\Debug\netcoreapp2.1\Datos.dll
+D:\ServiceCore\ServiceDynamic\bin\Debug\netcoreapp2.1\Datos.pdb
+D:\ServiceCore\ServiceDynamic\obj\Debug\netcoreapp2.1\ServiceDynamic.csproj.CopyComplete
