@@ -1,6 +1,8 @@
-
 ## Requerimientos
-* PostMan : <https://www.getpostman.com/downloads/>
+* [PostMan](https://www.getpostman.com/downloads)
+
+## Clonar proyecto
+git clone https://gitlab.com/wilmarpanche/arbolbinario.git
 
 
 ## Getting started
