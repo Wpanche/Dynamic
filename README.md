@@ -8,7 +8,7 @@
 
 ## Endpoints
 
-la prueba cuenta con dos endpoints que deben ser ejecutados por metodo http #POST 
+la prueba cuenta con dos endpoints que deben ser ejecutados por metodo http # POST 
 1. http://localhost:56985/nuevoarbol
 1. http://localhost:56985/ancestro
 
