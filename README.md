@@ -15,4 +15,4 @@ la prueba cuenta con dos endpoints que deben ser ejecutados por metodo http POST
 
 ## Ejecutando: crear nuevo árbol
 
-Realizar peticion al API Rest en el endpoint http://localhost:56985/nuevoarbol enviando un areglo de enteros en el payLoad de la petición HttpPOST 
+Realizar peticion al API Rest en el endpoint http://localhost:56985/nuevoarbol enviando un areglo de enteros en el payLoad de la petición HttpPOST con ``Content-Type →application/json``
