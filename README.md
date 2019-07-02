@@ -1,15 +1,7 @@
 
-## Requirements
+##Requerimientos
+*PostMan : <https://www.getpostman.com/downloads/>
 
-* Tableau Server
-* Java SDK
-  * Download: <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
-* Apache Ant
-  * It is not neccessary to run the "Optional" steps in the Apache Ant guide.
-  * Download: <http://ant.apache.org/manual/install.html>
-* Apache Ivy
-  * Download: <http://ant.apache.org/ivy/download.cgi>
-  * For installation instructions, see the readme file included in the download.
 
 ## Getting started
 
