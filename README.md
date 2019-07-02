@@ -1,11 +1,9 @@
 ## Requerimientos
 * [PostMan](https://www.getpostman.com/downloads)
 
-## Clonar proyecto
-```
-git clone https://gitlab.com/wilmarpanche/arbolbinario.git
-```
-En director ``./arbolBinario`` ejecutar el archivo ``arbolBinario.sln``
+## Abrir solición
+* Clonar repositorio:```git clone https://gitlab.com/wilmarpanche/arbolbinario.git```
+* En director ``./arbolBinario`` ejecutar el archivo ``arbolBinario.sln``
 
 ## Getting started
 
