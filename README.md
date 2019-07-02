@@ -1,6 +1,6 @@
 
-##Requerimientos
-*PostMan : <https://www.getpostman.com/downloads/>
+## Requerimientos
+* PostMan : <https://www.getpostman.com/downloads/>
 
 
 ## Getting started
