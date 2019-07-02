@@ -5,7 +5,7 @@
 ```
 git clone https://gitlab.com/wilmarpanche/arbolbinario.git
 ```
-
+en el director ``./arbolBinario`` ejecutar el archivo ``arbolBinario.sln``
 
 ## Getting started
 
