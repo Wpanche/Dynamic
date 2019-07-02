@@ -1,9 +1,16 @@
 ## Requerimientos
 * [PostMan](https://www.getpostman.com/downloads)
 
-## Abrir solición
+## Abrir solución
+* realizar los puntos definidos en el apartado  ``Requerimientos``
 * Clonar repositorio:```git clone https://gitlab.com/wilmarpanche/arbolbinario.git```
-* En director ``./arbolBinario`` ejecutar el archivo ``arbolBinario.sln``
+* En directorio ``./arbolBinario`` ejecutar el archivo ``arbolBinario.sln``
+
+## Endpoints
+
+la prueba cuenta con dos endpoints
+1. http://localhost:56985/nuevoarbol
+1. http://localhost:56985/ancestro
 
 ## Getting started
 
