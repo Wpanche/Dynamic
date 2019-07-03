@@ -18,6 +18,6 @@ la prueba cuenta con dos endpoints que deben ser ejecutados por metodo http POST
 Realizar peticion al API Rest en el endpoint http://localhost:56985/nuevoarbol enviando un areglo de enteros en el payLoad de la petición HttpPOST con ``Content-Type →application/json``
 
 payLoad: 
-      ``json
+      ```json
         [7,3,4,8,2,76,74,85,83,87,67,39,44,28,29,76,74,85,83,87]
-      ``
+      ```
